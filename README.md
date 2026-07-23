@@ -4,7 +4,7 @@ First, open github.com and create a new repository.
 
 Give it a name, for example:
 
-azure-landing-zone
+terraform modules
 
 After creating the repository, GitHub gives you a URL like:
 
